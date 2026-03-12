@@ -62,12 +62,21 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3>🤖 HarixAi - Gemini Clone</h3>
+      <p>A Gemini AI clone with real AI responses, prompt suggestions and chat history.</p>
+      <p><b>Tech:</b> React · Vite · Groq SDK · LLaMA 3.3 70B</p>
+      <a href="https://gemini-clone-app-seven.vercel.app/">🔗 Live Demo</a> |
+      <a href="https://github.com/HarisShahnawaz/Gemini-Clone">📂 Repo</a>
+    </td>
+    <td width="50%">
       <h3>🎓 University Website</h3>
       <p>A clean and responsive university website frontend with smooth navigation.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript · GitHub Pages</p>
       <a href="https://harisshahnawaz.github.io/university-website-frontend/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/university-website-frontend">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📖 JS Urdu Tutorial</h3>
       <p>My complete JavaScript learning path with YouTube tutorials in Urdu.</p>
@@ -75,6 +84,7 @@
       <a href="https://www.youtube.com/c/harisshahnawaz8393">🎥 YouTube</a> |
       <a href="https://github.com/HarisShahnawaz/Js-Urdu-tutorial">📂 Repo</a>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -100,7 +110,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HarisShahnawaz&theme=tokyonight&hide_border=true" />
