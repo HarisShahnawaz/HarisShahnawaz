@@ -28,6 +28,16 @@
 ## 🚀 Featured Projects
 
 <table>
+   <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>My personal portfolio website showcasing my projects, skills and experience as a Frontend Developer.</p>
+      <p><b>Tech:</b> React · Tailwind CSS v4 · Framer Motion · Vite · Vercel</p>
+      <a href="https://my-portfolio-website-eight-ashy.vercel.app">🔗 Live Demo</a> |
+      <a href="https://github.com/HarisShahnawaz/My-Portfolio-Website">📂 Repo</a>
+    </td>
+    <td width="50%"></td>
+</tr>
   <tr>
     <td width="50%">
       <h3>🏋️ FitClub - Gym Website</h3>
