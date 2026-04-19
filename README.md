@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate about building clean, user-centric web applications with modern technologies.
+  Passionate about building clean, user-centric web applications with modern technologies like MERN.
   I specialize in <b>React</b> — building component-based UIs, managing state with Redux Toolkit,
   handling routing with React Router, and connecting to backend services like Appwrite.
   Currently leveling up my skills and actively looking for an internship opportunity.
