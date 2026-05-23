@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Haris Shahnawaz 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer · CS Student · Based in Pakistan 🇵🇰</b>
+  <b>MERN Stack Developer · CS Student · Based in Pakistan 🇵🇰</b>
 </p>
 
 <p align="center">
-  Passionate about building clean, user-centric web applications with modern technologies like MERN.
-  I specialize in <b>React</b> — building component-based UIs, managing state with Redux Toolkit,
-  handling routing with React Router, and connecting to backend services like Appwrite.
-  Currently leveling up my skills and actively looking for an internship opportunity.
+  Passionate about building clean, user-centric web applications with modern technologies.
+  I specialize in the <b>MERN Stack</b> — building component-based UIs with React, managing state with Redux Toolkit,
+  developing REST APIs with Node.js & Express, and working with MongoDB databases.
 </p>
 
 <p align="center">
@@ -30,12 +29,21 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>🛍️ HmaStore - E-Commerce Platform</h3>
+      <p>A fully featured full-stack e-commerce platform with product listings, shopping cart, user authentication, order management, and an admin dashboard.</p>
+      <p><b>Tech:</b> React · Vite · Tailwind CSS · Node.js · Express · MongoDB · JWT</p>
+      <a href="https://hma-store-e-commerce-website.vercel.app/">🔗 Live Demo</a> |
+      <a href="https://github.com/HarisShahnawaz/HMA-STORE-E-COMMERCE-WEBSITE">📂 Repo</a>
+    </td>
+    <td width="50%">
       <h3>🌐 Portfolio Website</h3>
-      <p>My personal portfolio website showcasing my projects, skills and experience as a Frontend Developer.</p>
+      <p>My personal portfolio website showcasing my projects, skills and experience as a MERN Stack Developer.</p>
       <p><b>Tech:</b> React · Tailwind CSS v4 · Framer Motion · Vite · Vercel</p>
       <a href="https://my-portfolio-website-eight-ashy.vercel.app">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/My-Portfolio-Website">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🤖 HarixAi - Gemini Clone</h3>
       <p>A Gemini AI clone with real AI responses, prompt suggestions and chat history.</p>
@@ -43,8 +51,6 @@
       <a href="https://gemini-clone-app-seven.vercel.app/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/Gemini-Clone">📂 Repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🏋️ FitClub - Gym Website</h3>
       <p>A responsive fitness & gym website with smooth animations and modern energetic UI.</p>
@@ -52,6 +58,8 @@
       <a href="https://fitclubwebsitebyhariscoding.pages.dev/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/FitClub-reactApp">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>✈️ Travel Website</h3>
       <p>A responsive travel destination app with modern UI built with React.</p>
@@ -59,8 +67,6 @@
       <a href="https://travel-website-byharry.harisshahnawaz97.workers.dev/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/TravelWebsite">📂 Repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>📝 Blog App</h3>
       <p>Full-stack blog app with user authentication, database & image storage.</p>
@@ -68,6 +74,8 @@
       <a href="https://appwrite-blog-app-chi.vercel.app">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/AppwriteBlogApp">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🛒 E-Commerce Website</h3>
       <p>A fully responsive e-commerce storefront with 7 pages — products, cart, account & more.</p>
@@ -75,21 +83,12 @@
       <a href="https://harisshahnawaz.github.io/e-commerce-website-frontend/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/e-commerce-website-frontend">📂 Repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🎓 University Website</h3>
       <p>A clean and responsive university website frontend with smooth navigation.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript · GitHub Pages</p>
       <a href="https://harisshahnawaz.github.io/university-website-frontend/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/university-website-frontend">📂 Repo</a>
-    </td>
-    <td width="50%">
-      <h3>📖 JS Urdu Tutorial</h3>
-      <p>My complete JavaScript learning path with YouTube tutorials in Urdu.</p>
-      <p><b>Tech:</b> JavaScript · HTML</p>
-      <a href="https://www.youtube.com/c/harisshahnawaz8393">🎥 YouTube</a> |
-      <a href="https://github.com/HarisShahnawaz/Js-Urdu-tutorial">📂 Repo</a>
     </td>
   </tr>
 </table>
@@ -100,12 +99,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -115,18 +118,16 @@
 
 ---
 
-
-
-## ⚛️ My React Journey
+## ⚛️ My MERN Journey
 
 <p align="center">
-  I started learning React from scratch and have built my way up from understanding 
-  JSX and components to managing complex state with <b>Redux Toolkit</b>, 
-  handling navigation with <b>React Router DOM</b>, working with the <b>Context API</b>,
-  and building full-stack apps with <b>Appwrite</b> as the backend.
-  I recently integrated <b>Groq AI (LLaMA 3.3 70B)</b> into my HarixAI project,
-  showing my ability to work with modern AI APIs.
-  Every project in my profile is a step forward in that journey.
+  I started with frontend development and have grown into a <b>MERN Stack Developer</b> — 
+  building full-stack applications from the ground up. On the frontend, I work with 
+  <b>React</b>, managing state with <b>Redux Toolkit</b> and handling routing with <b>React Router DOM</b>.
+  On the backend, I build <b>REST APIs</b> with <b>Node.js & Express</b>, design schemas with 
+  <b>Mongoose</b>, and secure routes using <b>JWT authentication</b>.
+  My latest project, <b>HmaStore</b>, is a complete full-stack e-commerce platform that 
+  brings all of these skills together. Every project in my profile is a step forward in that journey.
 </p>
 
 ---
@@ -136,7 +137,7 @@
 <p align="center">
   I'm a CS student actively looking for <b>frontend or full-stack internship</b> opportunities
   at top Pakistani software houses like Arbisoft, Devsinc, Systems Limited, 10Pearls and Techlogix.
-  I bring hands-on experience with React, real deployed projects, and a strong drive to learn.
+  I bring hands-on experience with the MERN stack, real deployed projects, and a strong drive to learn.
   If you like my work — let's connect!
 </p>
 
