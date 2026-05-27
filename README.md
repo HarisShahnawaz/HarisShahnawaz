@@ -62,7 +62,7 @@
   <tr>
     <td width="50%">
       <h3>✈️ Travel Website</h3>
-      <p>A responsive travel destination app with modern UI built with React.</p>
+      <p>A responsive travel destination app with modern UI , built with React.</p>
       <p><b>Tech:</b> React · CSS3 · Vite · Cloudflare Pages</p>
       <a href="https://travel-website-byharry.harisshahnawaz97.workers.dev/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/TravelWebsite">📂 Repo</a>
@@ -127,7 +127,7 @@
   On the backend, I build <b>REST APIs</b> with <b>Node.js & Express</b>, design schemas with 
   <b>Mongoose</b>, and secure routes using <b>JWT authentication</b>.
   My latest project, <b>HmaStore</b>, is a complete full-stack e-commerce platform that 
-  brings all of these skills together. Every project in my profile is a step forward in that journey.
+  brings all of these skills together. Every project in my profile is a step forward in that journey. 
 </p>
 
 ---
