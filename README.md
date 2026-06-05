@@ -136,7 +136,7 @@
 
 <p align="center">
   I'm a CS student actively looking for <b>frontend or full-stack internship</b> opportunities
-  at top Pakistani software houses like Arbisoft, Devsinc, Systems Limited, 10Pearls and Techlogix.
+  at top Pakistani software houses.
   I bring hands-on experience with the MERN stack, real deployed projects, and a strong drive to learn.
   If you like my work — let's connect!
 </p>
