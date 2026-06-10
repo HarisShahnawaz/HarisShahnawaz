@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Haris Shahnawaz 👋</h1>
 
 <p align="center">
-  <b>MERN Stack Developer · CS Student · Based in Pakistan 🇵🇰</b>
+  <b>MERN Stack Developer · IT Student · Based in Pakistan 🇵🇰</b>
 </p>
 
 <p align="center">
