@@ -68,11 +68,11 @@
       <a href="https://github.com/HarisShahnawaz/TravelWebsite">📂 Repo</a>
     </td>
     <td width="50%">
-      <h3>📝 Blog App</h3>
-      <p>Full-stack blog app with user authentication, database & image storage.</p>
-      <p><b>Tech:</b> React · Appwrite · Redux Toolkit · Vercel</p>
-      <a href="https://appwrite-blog-app-chi.vercel.app">🔗 Live Demo</a> |
-      <a href="https://github.com/HarisShahnawaz/AppwriteBlogApp">📂 Repo</a>
+      <h3>TeyZix MarketPlace</h3>
+      <p>Full-stack multi-vendor marketplace with vendor dashboards, customer-seller chats, and a built-in AI assistant guide</p>
+      <p><b>Tech:</b> React · Tailwind CSS · Node.js · Express · MongoDB </p>
+      <a href="https://teyzix-marketplace-theta.vercel.app/">🔗 Live Demo</a> |
+      <a href="https://github.com/HarisShahnawaz/teyzix-Marketplace">📂 Repo</a>
     </td>
   </tr>
   <tr>
