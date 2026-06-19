@@ -52,11 +52,11 @@
       <a href="https://github.com/HarisShahnawaz/Gemini-Clone">📂 Repo</a>
     </td>
     <td width="50%">
-      <h3>🏋️ FitClub - Gym Website</h3>
-      <p>A responsive fitness & gym website with smooth animations and modern energetic UI.</p>
-      <p><b>Tech:</b> React · CSS3 · Vite · Cloudflare Pages</p>
-      <a href="https://fitclubwebsitebyhariscoding.pages.dev/">🔗 Live Demo</a> |
-      <a href="https://github.com/HarisShahnawaz/FitClub-reactApp">📂 Repo</a>
+      <h3>TeyZix MarketPlace</h3>
+      <p>Full-stack multi-vendor marketplace with vendor dashboards, customer-seller chats, and a built-in AI assistant guide</p>
+      <p><b>Tech:</b> React · Tailwind CSS · Node.js · Express · MongoDB </p>
+      <a href="https://teyzix-marketplace-theta.vercel.app/">🔗 Live Demo</a> |
+      <a href="https://github.com/HarisShahnawaz/teyzix-Marketplace">📂 Repo</a>
     </td>
   </tr>
   <tr>
@@ -68,11 +68,11 @@
       <a href="https://github.com/HarisShahnawaz/TravelWebsite">📂 Repo</a>
     </td>
     <td width="50%">
-      <h3>TeyZix MarketPlace</h3>
-      <p>Full-stack multi-vendor marketplace with vendor dashboards, customer-seller chats, and a built-in AI assistant guide</p>
-      <p><b>Tech:</b> React · Tailwind CSS · Node.js · Express · MongoDB </p>
-      <a href="https://teyzix-marketplace-theta.vercel.app/">🔗 Live Demo</a> |
-      <a href="https://github.com/HarisShahnawaz/teyzix-Marketplace">📂 Repo</a>
+      <h3>🏋️ FitClub - Gym Website</h3>
+      <p>A responsive fitness & gym website with smooth animations and modern energetic UI.</p>
+      <p><b>Tech:</b> React · CSS3 · Vite · Cloudflare Pages</p>
+      <a href="https://fitclubwebsitebyhariscoding.pages.dev/">🔗 Live Demo</a> |
+      <a href="https://github.com/HarisShahnawaz/FitClub-reactApp">📂 Repo</a>
     </td>
   </tr>
   <tr>
