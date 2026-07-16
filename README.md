@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate about building clean, user-centric web applications with modern technologies.
+ i am a Passionate about building clean, user-centric web applications with modern technologies.
   I specialize in the <b>MERN Stack</b> — building component-based UIs with React, managing state with Redux Toolkit,
   developing REST APIs with Node.js & Express, and working with MongoDB databases.
 </p>
