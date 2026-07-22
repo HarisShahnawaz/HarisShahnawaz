@@ -85,7 +85,7 @@
     </td>
     <td width="50%">
       <h3>🎓 University Website</h3>
-      <p>A clean and responsive university website frontend with smooth navigation.</p>
+      <p>A clean and responsive university website frontend with smooth navigation and responsive design.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript · GitHub Pages</p>
       <a href="https://harisshahnawaz.github.io/university-website-frontend/">🔗 Live Demo</a> |
       <a href="https://github.com/HarisShahnawaz/university-website-frontend">📂 Repo</a>
